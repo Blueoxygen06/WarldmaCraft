@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warldmacraft:moahair",
+  "pattern": [
+    " W ",
+    " W ",
+    " R "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "R": {
+      "item": "warldmacraft:warma_badge"
+    }
+  },
+  "result": {
+    "item": "warldmacraft:moahair",
+    "count": 1
+  }
+}

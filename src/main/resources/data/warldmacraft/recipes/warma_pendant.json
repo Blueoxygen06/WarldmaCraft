@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warldmacraft:warma_pendant",
+  "pattern": [
+    "WWW",
+    "W W",
+    "WRW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:string"
+    },
+    "R": {
+      "item": "warldmacraft:warma_egg"
+    }
+  },
+  "result": {
+    "item": "warldmacraft:warma_pendant",
+    "count": 1
+  }
+}

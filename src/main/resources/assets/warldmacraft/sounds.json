@@ -1,0 +1,26 @@
+{
+  "mfyssc": {
+    "subtitle": "subtitles.warldmacraft.mfyssc",
+    "sounds": [
+      "warldmacraft:mfyssc"
+    ]
+  },
+  "mfysif": {
+    "subtitle": "subtitles.warldmacraft.mfysif",
+    "sounds": [
+      "warldmacraft:mfysif"
+    ]
+  },
+  "mfyslr": {
+    "subtitle": "subtitles.warldmacraft.mfyslr",
+    "sounds": [
+      "warldmacraft:mfyslr"
+    ]
+  },
+  "mfysmo": {
+    "subtitle": "subtitles.warldmacraft.mfysmo",
+    "sounds": [
+      "warldmacraft:mfysmo"
+    ]
+  }
+}

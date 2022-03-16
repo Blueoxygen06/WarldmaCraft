@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warldmacraft:giraffe_helmet",
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "warldmacraft:giraffe_skin"
+    }
+  },
+  "result": {
+    "item": "warldmacraft:giraffe_helmet",
+    "count": 1
+  }
+}

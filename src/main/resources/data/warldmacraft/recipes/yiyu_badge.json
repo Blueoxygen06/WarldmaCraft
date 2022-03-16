@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warldmacraft:yiyu_badge",
+  "pattern": [
+    "WWW",
+    "WRW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "R": {
+      "item": "warldmacraft:warma_badge"
+    }
+  },
+  "result": {
+    "item": "warldmacraft:yiyu_badge",
+    "count": 1
+  }
+}

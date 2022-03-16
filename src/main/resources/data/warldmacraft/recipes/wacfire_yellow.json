@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "warldmacraft:wacfire_yellow",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "item": "warldmacraft:wacfire_basic"
+    }
+  ],
+  "result": {
+    "item": "warldmacraft:wacfire_yellow",
+    "count": 1
+  }
+}

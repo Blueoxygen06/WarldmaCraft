@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "warldmacraft:wacfire_green",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "warldmacraft:wacfire_basic"
+    }
+  ],
+  "result": {
+    "item": "warldmacraft:wacfire_green",
+    "count": 1
+  }
+}

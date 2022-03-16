@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "warldmacraft:yiyufairytale",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "warldmacraft:yiyu_badge"
+    }
+  ],
+  "result": {
+    "item": "warldmacraft:yiyufairytale",
+    "count": 1
+  }
+}

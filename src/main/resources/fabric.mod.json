@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "wac",
+  "version": "1.11.26",
+
+  "name": "WarldmaCraft",
+  "description": "我已经完全爱上Warma啦！",
+  "authors": [
+    "Anorigimaple"
+  ],
+  "contact": {
+    "homepage": "https://space.bilibili.com/107643666",
+    "sources": ""
+  },
+
+  "license": "",
+  "icon": "assets/warldmacraft/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.anom.warldmacraft.Warldmacraft"
+    ]
+  },
+  "mixins": [
+
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

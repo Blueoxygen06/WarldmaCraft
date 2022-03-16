@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warldmacraft:warma_badge",
+  "pattern": [
+    "CAC",
+    "DBD",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "warldmacraft:giraffe_skin"
+    },
+    "C": {
+      "item": "minecraft:diamond"
+    },
+    "D": {
+      "item": "minecraft:white_wool"
+    },
+    "E": {
+      "item": "warldmacraft:warma_pendant"
+    }
+  },
+    "result": {
+      "item": "warldmacraft:warma_badge",
+      "count": 1
+    }
+  }

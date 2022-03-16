@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "warldmacraft:items/giraffe_helmet"
+  }
+}

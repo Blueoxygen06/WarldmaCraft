@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warldmacraft:wacfire_basic",
+  "pattern": [
+    "W",
+    "W",
+    "R"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:iron_block"
+    },
+    "R": {
+      "item": "warldmacraft:warma_pendant"
+    }
+  },
+  "result": {
+    "item": "warldmacraft:wacfire_basic",
+    "count": 1
+  }
+}
